@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/raft_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/raft_test[1]_tests.cmake")
+else()
+  add_test(raft_test_NOT_BUILT raft_test_NOT_BUILT)
+endif()

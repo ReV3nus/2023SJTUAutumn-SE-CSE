@@ -1,0 +1,7 @@
+add_test( DataServerTest.CreateAndInit /home/stu/chfs/build/test/dataserver_test [==[--gtest_filter=DataServerTest.CreateAndInit]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/dataserver_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( DataServerTest.CreateAndInit PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( DataServerTest.AllocateAndDelete /home/stu/chfs/build/test/dataserver_test [==[--gtest_filter=DataServerTest.AllocateAndDelete]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/dataserver_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( DataServerTest.AllocateAndDelete PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( DataServerTest.ReadAndWrite /home/stu/chfs/build/test/dataserver_test [==[--gtest_filter=DataServerTest.ReadAndWrite]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/dataserver_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( DataServerTest.ReadAndWrite PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+set( dataserver_test_TESTS DataServerTest.CreateAndInit DataServerTest.AllocateAndDelete DataServerTest.ReadAndWrite)

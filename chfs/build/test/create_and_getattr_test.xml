@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="0" errors="0" time="0.005" timestamp="2023-12-06T12:13:13.666" name="AllTests">
+  <testsuite name="FileSystemTest" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0.005" timestamp="2023-12-06T12:13:13.667">
+    <testcase name="CreateAndGetAttr" file="/home/stu/chfs/test/filessytem/create_and_getattr_test.cc" line="9" status="run" result="completed" time="0.004" timestamp="2023-12-06T12:13:13.667" classname="FileSystemTest" />
+  </testsuite>
+</testsuites>

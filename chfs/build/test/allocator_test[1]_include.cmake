@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/allocator_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/allocator_test[1]_tests.cmake")
+else()
+  add_test(allocator_test_NOT_BUILT allocator_test_NOT_BUILT)
+endif()

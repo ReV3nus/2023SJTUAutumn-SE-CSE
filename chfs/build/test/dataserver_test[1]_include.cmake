@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/dataserver_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/dataserver_test[1]_tests.cmake")
+else()
+  add_test(dataserver_test_NOT_BUILT dataserver_test_NOT_BUILT)
+endif()

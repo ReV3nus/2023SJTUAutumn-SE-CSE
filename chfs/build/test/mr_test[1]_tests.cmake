@@ -1,0 +1,5 @@
+add_test( MapReduceTest.SequentialMapReduce /home/stu/chfs/build/test/mr_test [==[--gtest_filter=MapReduceTest.SequentialMapReduce]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/mr_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( MapReduceTest.SequentialMapReduce PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( MapReduceTest.DistributedMapReduce /home/stu/chfs/build/test/mr_test [==[--gtest_filter=MapReduceTest.DistributedMapReduce]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/mr_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( MapReduceTest.DistributedMapReduce PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+set( mr_test_TESTS MapReduceTest.SequentialMapReduce MapReduceTest.DistributedMapReduce)

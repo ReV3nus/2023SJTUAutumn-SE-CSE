@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/distributed_client_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/distributed_client_test[1]_tests.cmake")
+else()
+  add_test(distributed_client_test_NOT_BUILT distributed_client_test_NOT_BUILT)
+endif()

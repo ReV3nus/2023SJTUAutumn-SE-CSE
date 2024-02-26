@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="0" errors="0" time="0.026" timestamp="2023-12-06T12:13:10.918" name="AllTests">
+  <testsuite name="DataServerTest" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0.025" timestamp="2023-12-06T12:13:10.919">
+    <testcase name="ReadAndWrite" file="/home/stu/chfs/test/distributed/dataserver_test.cc" line="57" status="run" result="completed" time="0.025" timestamp="2023-12-06T12:13:10.919" classname="DataServerTest" />
+  </testsuite>
+</testsuites>

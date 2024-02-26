@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/superblock_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/superblock_test[1]_tests.cmake")
+else()
+  add_test(superblock_test_NOT_BUILT superblock_test_NOT_BUILT)
+endif()

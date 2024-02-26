@@ -1,0 +1,322 @@
+[
+{
+  "directory": "/home/stu/chfs/build/third_party/googletest/googlemock",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -I/home/stu/chfs/third_party/googletest/googlemock/include -I/home/stu/chfs/third_party/googletest/googlemock -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/stu/chfs/third_party/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/stu/chfs/third_party/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/googletest/googlemock",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/stu/chfs/third_party/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/stu/chfs/third_party/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/googletest/googletest",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -I/home/stu/chfs/third_party/googletest/googletest/include -I/home/stu/chfs/third_party/googletest/googletest  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/stu/chfs/third_party/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/stu/chfs/third_party/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/googletest/googletest",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/stu/chfs/third_party/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/stu/chfs/third_party/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/fmt",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/fmt.dir/src/format.cc.o -c /home/stu/chfs/third_party/fmt/src/format.cc",
+  "file": "/home/stu/chfs/third_party/fmt/src/format.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/fmt",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/fmt.dir/src/os.cc.o -c /home/stu/chfs/third_party/fmt/src/os.cc",
+  "file": "/home/stu/chfs/third_party/fmt/src/os.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/dispatcher.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/dispatcher.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/dispatcher.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/server.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/server.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/server.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/client.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/client.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/client.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/this_handler.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/this_handler.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/this_handler.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/this_session.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/this_session.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/this_session.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/this_server.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/this_server.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/this_server.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/rpc_error.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/rpc_error.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/rpc_error.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/detail/server_session.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/detail/server_session.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/detail/server_session.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/detail/response.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/detail/response.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/detail/response.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/detail/client_error.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/detail/client_error.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/detail/client_error.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/lib/rpc/nonstd/optional.cc.o -c /home/stu/chfs/third_party/rpclib/lib/rpc/nonstd/optional.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/lib/rpc/nonstd/optional.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/dependencies/src/format.cc.o -c /home/stu/chfs/third_party/rpclib/dependencies/src/format.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/dependencies/src/format.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/third_party/rpclib",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -DRPCLIB_ASIO=clmdep_asio -DRPCLIB_FMT=clmdep_fmt -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/rpclib/dependencies/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -Wall -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -Wno-missing-prototypes -Wno-undef -Wno-unused-lambda-capture -Wno-zero-as-null-pointer-constant -std=gnu++17 -o CMakeFiles/rpc.dir/dependencies/src/posix.cc.o -c /home/stu/chfs/third_party/rpclib/dependencies/src/posix.cc",
+  "file": "/home/stu/chfs/third_party/rpclib/dependencies/src/posix.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/block",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_block.dir/manager.cc.o -c /home/stu/chfs/src/block/manager.cc",
+  "file": "/home/stu/chfs/src/block/manager.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/block",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_block.dir/allocator.cc.o -c /home/stu/chfs/src/block/allocator.cc",
+  "file": "/home/stu/chfs/src/block/allocator.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/metadata",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_metadata.dir/superblock.cc.o -c /home/stu/chfs/src/metadata/superblock.cc",
+  "file": "/home/stu/chfs/src/metadata/superblock.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/metadata",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_metadata.dir/manager.cc.o -c /home/stu/chfs/src/metadata/manager.cc",
+  "file": "/home/stu/chfs/src/metadata/manager.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/metadata",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_metadata.dir/inode.cc.o -c /home/stu/chfs/src/metadata/inode.cc",
+  "file": "/home/stu/chfs/src/metadata/inode.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/filesystem",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_fs.dir/control_op.cc.o -c /home/stu/chfs/src/filesystem/control_op.cc",
+  "file": "/home/stu/chfs/src/filesystem/control_op.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/filesystem",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_fs.dir/data_op.cc.o -c /home/stu/chfs/src/filesystem/data_op.cc",
+  "file": "/home/stu/chfs/src/filesystem/data_op.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/filesystem",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_fs.dir/directory_op.cc.o -c /home/stu/chfs/src/filesystem/directory_op.cc",
+  "file": "/home/stu/chfs/src/filesystem/directory_op.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/librpc",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_rpc.dir/server.cc.o -c /home/stu/chfs/src/librpc/server.cc",
+  "file": "/home/stu/chfs/src/librpc/server.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/librpc",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_rpc.dir/client.cc.o -c /home/stu/chfs/src/librpc/client.cc",
+  "file": "/home/stu/chfs/src/librpc/client.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/distributed",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_distributed.dir/dataserver.cc.o -c /home/stu/chfs/src/distributed/dataserver.cc",
+  "file": "/home/stu/chfs/src/distributed/dataserver.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/distributed",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_distributed.dir/metadata_server.cc.o -c /home/stu/chfs/src/distributed/metadata_server.cc",
+  "file": "/home/stu/chfs/src/distributed/metadata_server.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/distributed",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_distributed.dir/client.cc.o -c /home/stu/chfs/src/distributed/client.cc",
+  "file": "/home/stu/chfs/src/distributed/client.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/distributed",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_distributed.dir/commit_log.cc.o -c /home/stu/chfs/src/distributed/commit_log.cc",
+  "file": "/home/stu/chfs/src/distributed/commit_log.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/map_reduce",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_mr.dir/basic_mr.cc.o -c /home/stu/chfs/src/map_reduce/basic_mr.cc",
+  "file": "/home/stu/chfs/src/map_reduce/basic_mr.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/map_reduce",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_mr.dir/mr_coordinator.cc.o -c /home/stu/chfs/src/map_reduce/mr_coordinator.cc",
+  "file": "/home/stu/chfs/src/map_reduce/mr_coordinator.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/map_reduce",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_mr.dir/mr_sequential.cc.o -c /home/stu/chfs/src/map_reduce/mr_sequential.cc",
+  "file": "/home/stu/chfs/src/map_reduce/mr_sequential.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/src/map_reduce",
+  "command": "/usr/bin/c++  -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIC -std=gnu++17 -o CMakeFiles/chfs_mr.dir/mr_worker.cc.o -c /home/stu/chfs/src/map_reduce/mr_worker.cc",
+  "file": "/home/stu/chfs/src/map_reduce/mr_worker.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/bitmap_test.dir/basic/bitmap_test.cc.o -c /home/stu/chfs/test/basic/bitmap_test.cc",
+  "file": "/home/stu/chfs/test/basic/bitmap_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/hello_test.dir/basic/hello_test.cc.o -c /home/stu/chfs/test/basic/hello_test.cc",
+  "file": "/home/stu/chfs/test/basic/hello_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/allocator_test.dir/block/allocator_test.cc.o -c /home/stu/chfs/test/block/allocator_test.cc",
+  "file": "/home/stu/chfs/test/block/allocator_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/manager_test.dir/block/manager_test.cc.o -c /home/stu/chfs/test/block/manager_test.cc",
+  "file": "/home/stu/chfs/test/block/manager_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/commit_log_test.dir/distributed/commit_log_test.cc.o -c /home/stu/chfs/test/distributed/commit_log_test.cc",
+  "file": "/home/stu/chfs/test/distributed/commit_log_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/dataserver_test.dir/distributed/dataserver_test.cc.o -c /home/stu/chfs/test/distributed/dataserver_test.cc",
+  "file": "/home/stu/chfs/test/distributed/dataserver_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/distributed_client_test.dir/distributed/distributed_client_test.cc.o -c /home/stu/chfs/test/distributed/distributed_client_test.cc",
+  "file": "/home/stu/chfs/test/distributed/distributed_client_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/metadata_server_test.dir/distributed/metadata_server_test.cc.o -c /home/stu/chfs/test/distributed/metadata_server_test.cc",
+  "file": "/home/stu/chfs/test/distributed/metadata_server_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/util_test.dir/distributed/util_test.cc.o -c /home/stu/chfs/test/distributed/util_test.cc",
+  "file": "/home/stu/chfs/test/distributed/util_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/basic_fs_test.dir/filessytem/basic_fs_test.cc.o -c /home/stu/chfs/test/filessytem/basic_fs_test.cc",
+  "file": "/home/stu/chfs/test/filessytem/basic_fs_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/create_and_getattr_test.dir/filessytem/create_and_getattr_test.cc.o -c /home/stu/chfs/test/filessytem/create_and_getattr_test.cc",
+  "file": "/home/stu/chfs/test/filessytem/create_and_getattr_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/directory_op_test.dir/filessytem/directory_op_test.cc.o -c /home/stu/chfs/test/filessytem/directory_op_test.cc",
+  "file": "/home/stu/chfs/test/filessytem/directory_op_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/indirect_file_write_test.dir/filessytem/indirect_file_write_test.cc.o -c /home/stu/chfs/test/filessytem/indirect_file_write_test.cc",
+  "file": "/home/stu/chfs/test/filessytem/indirect_file_write_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/remove_test.dir/filessytem/remove_test.cc.o -c /home/stu/chfs/test/filessytem/remove_test.cc",
+  "file": "/home/stu/chfs/test/filessytem/remove_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/client_test.dir/librpc/client_test.cc.o -c /home/stu/chfs/test/librpc/client_test.cc",
+  "file": "/home/stu/chfs/test/librpc/client_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/server_test.dir/librpc/server_test.cc.o -c /home/stu/chfs/test/librpc/server_test.cc",
+  "file": "/home/stu/chfs/test/librpc/server_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/mr_test.dir/map_reduce/mr_test.cc.o -c /home/stu/chfs/test/map_reduce/mr_test.cc",
+  "file": "/home/stu/chfs/test/map_reduce/mr_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/inode_manager_test.dir/metadata/inode_manager_test.cc.o -c /home/stu/chfs/test/metadata/inode_manager_test.cc",
+  "file": "/home/stu/chfs/test/metadata/inode_manager_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/inode_test.dir/metadata/inode_test.cc.o -c /home/stu/chfs/test/metadata/inode_test.cc",
+  "file": "/home/stu/chfs/test/metadata/inode_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/superblock_test.dir/metadata/superblock_test.cc.o -c /home/stu/chfs/test/metadata/superblock_test.cc",
+  "file": "/home/stu/chfs/test/metadata/superblock_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/raft_test.dir/rsm/raft_test.cc.o -c /home/stu/chfs/test/rsm/raft_test.cc",
+  "file": "/home/stu/chfs/test/rsm/raft_test.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/stress-test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/allocator_stress_test.dir/allocator.cc.o -c /home/stu/chfs/stress-test/allocator.cc",
+  "file": "/home/stu/chfs/stress-test/allocator.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/stress-test",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include -isystem /home/stu/chfs/third_party/googletest/googletest/include -isystem /home/stu/chfs/third_party/googletest/googletest -isystem /home/stu/chfs/third_party/googletest/googlemock/include -isystem /home/stu/chfs/third_party/googletest/googlemock  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/concurrent_stress_test.dir/concurrent.cc.o -c /home/stu/chfs/stress-test/concurrent.cc",
+  "file": "/home/stu/chfs/stress-test/concurrent.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/daemons/single_node_fs",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/fs.dir/main.cc.o -c /home/stu/chfs/daemons/single_node_fs/main.cc",
+  "file": "/home/stu/chfs/daemons/single_node_fs/main.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/daemons/distributed",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/fs_client.dir/main.cc.o -c /home/stu/chfs/daemons/distributed/main.cc",
+  "file": "/home/stu/chfs/daemons/distributed/main.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/daemons/distributed",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/meta.dir/meta.cc.o -c /home/stu/chfs/daemons/distributed/meta.cc",
+  "file": "/home/stu/chfs/daemons/distributed/meta.cc"
+},
+{
+  "directory": "/home/stu/chfs/build/daemons/distributed",
+  "command": "/usr/bin/c++ -DRPCLIB_MSGPACK=clmdep_msgpack -I/home/stu/chfs/src/include -I/home/stu/chfs/test/include -I/home/stu/chfs/third_party -I/home/stu/chfs/third_party/fmt/include -I/home/stu/chfs/third_party/argparse/include -I/home/stu/chfs/third_party/rpclib/include  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -fPIE -std=gnu++17 -o CMakeFiles/data.dir/data.cc.o -c /home/stu/chfs/daemons/distributed/data.cc",
+  "file": "/home/stu/chfs/daemons/distributed/data.cc"
+}
+]

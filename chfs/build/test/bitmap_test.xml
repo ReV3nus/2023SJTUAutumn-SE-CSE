@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="0" errors="0" time="0.069" timestamp="2023-12-06T12:13:06.487" name="AllTests">
+  <testsuite name="BasicTest" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0.067" timestamp="2023-12-06T12:13:06.489">
+    <testcase name="BitmapFree" file="/home/stu/chfs/test/basic/bitmap_test.cc" line="33" status="run" result="completed" time="0.067" timestamp="2023-12-06T12:13:06.489" classname="BasicTest" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,5 @@
+add_test( InodeManagerTest.InitAndTable /home/stu/chfs/build/test/inode_manager_test [==[--gtest_filter=InodeManagerTest.InitAndTable]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/inode_manager_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( InodeManagerTest.InitAndTable PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( InodeManagerTest.Allocation /home/stu/chfs/build/test/inode_manager_test [==[--gtest_filter=InodeManagerTest.Allocation]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/inode_manager_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( InodeManagerTest.Allocation PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+set( inode_manager_test_TESTS InodeManagerTest.InitAndTable InodeManagerTest.Allocation)

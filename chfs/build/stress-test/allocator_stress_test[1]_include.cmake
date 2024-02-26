@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/stress-test/allocator_stress_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/stress-test/allocator_stress_test[1]_tests.cmake")
+else()
+  add_test(allocator_stress_test_NOT_BUILT allocator_stress_test_NOT_BUILT)
+endif()

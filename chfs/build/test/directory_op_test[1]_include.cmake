@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/directory_op_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/directory_op_test[1]_tests.cmake")
+else()
+  add_test(directory_op_test_NOT_BUILT directory_op_test_NOT_BUILT)
+endif()

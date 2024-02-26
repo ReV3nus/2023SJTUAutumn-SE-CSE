@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/manager_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/manager_test[1]_tests.cmake")
+else()
+  add_test(manager_test_NOT_BUILT manager_test_NOT_BUILT)
+endif()

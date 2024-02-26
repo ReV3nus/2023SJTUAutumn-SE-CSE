@@ -1,0 +1,5 @@
+add_test( FileSystemTest.WriteLargeFile /home/stu/chfs/build/test/indirect_file_write_test [==[--gtest_filter=FileSystemTest.WriteLargeFile]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/indirect_file_write_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( FileSystemTest.WriteLargeFile PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( FileSystemTest.SetAttr /home/stu/chfs/build/test/indirect_file_write_test [==[--gtest_filter=FileSystemTest.SetAttr]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/indirect_file_write_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( FileSystemTest.SetAttr PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+set( indirect_file_write_test_TESTS FileSystemTest.WriteLargeFile FileSystemTest.SetAttr)

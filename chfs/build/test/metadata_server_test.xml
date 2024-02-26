@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="0" errors="0" time="0.225" timestamp="2023-12-06T12:13:13.320" name="AllTests">
+  <testsuite name="MetadataServerTest" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0.225" timestamp="2023-12-06T12:13:13.320">
+    <testcase name="CheckInvariant4" file="/home/stu/chfs/test/distributed/metadata_server_test.cc" line="521" status="run" result="completed" time="0.224" timestamp="2023-12-06T12:13:13.320" classname="MetadataServerTest" />
+  </testsuite>
+</testsuites>

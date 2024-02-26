@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/remove_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/remove_test[1]_tests.cmake")
+else()
+  add_test(remove_test_NOT_BUILT remove_test_NOT_BUILT)
+endif()

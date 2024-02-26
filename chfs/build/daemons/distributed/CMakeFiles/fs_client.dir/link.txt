@@ -1,0 +1,1 @@
+/usr/bin/c++  -D_FILE_OFFSET_BITS=64 -g -Wall -Wextra -Werror -Wno-sign-compare -Wno-unused-parameter -Wno-attributes -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls CMakeFiles/fs_client.dir/main.cc.o -o ../../bin/fs_client  ../../lib/libchfs.a -lfuse ../../lib/libfmtd.a ../../lib/librpc.a 

@@ -1,0 +1,5 @@
+add_test( BasicTest.BitmapBasic /home/stu/chfs/build/test/bitmap_test [==[--gtest_filter=BasicTest.BitmapBasic]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/bitmap_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( BasicTest.BitmapBasic PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( BasicTest.BitmapFree /home/stu/chfs/build/test/bitmap_test [==[--gtest_filter=BasicTest.BitmapFree]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/bitmap_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( BasicTest.BitmapFree PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+set( bitmap_test_TESTS BasicTest.BitmapBasic BasicTest.BitmapFree)

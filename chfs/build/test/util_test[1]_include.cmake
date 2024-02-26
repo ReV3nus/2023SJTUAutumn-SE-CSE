@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/util_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/util_test[1]_tests.cmake")
+else()
+  add_test(util_test_NOT_BUILT util_test_NOT_BUILT)
+endif()

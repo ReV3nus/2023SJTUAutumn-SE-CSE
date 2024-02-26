@@ -1,0 +1,7 @@
+add_test( InodeTest.Init /home/stu/chfs/build/test/inode_test [==[--gtest_filter=InodeTest.Init]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/inode_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( InodeTest.Init PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( InodeTest.Iteration /home/stu/chfs/build/test/inode_test [==[--gtest_filter=InodeTest.Iteration]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/inode_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( InodeTest.Iteration PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( InodeTest.IterationWrite /home/stu/chfs/build/test/inode_test [==[--gtest_filter=InodeTest.IterationWrite]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/inode_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( InodeTest.IterationWrite PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+set( inode_test_TESTS InodeTest.Init InodeTest.Iteration InodeTest.IterationWrite)

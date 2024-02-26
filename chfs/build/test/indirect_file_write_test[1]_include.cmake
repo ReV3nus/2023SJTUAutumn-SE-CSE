@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/indirect_file_write_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/indirect_file_write_test[1]_tests.cmake")
+else()
+  add_test(indirect_file_write_test_NOT_BUILT indirect_file_write_test_NOT_BUILT)
+endif()

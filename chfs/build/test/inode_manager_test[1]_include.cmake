@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/inode_manager_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/inode_manager_test[1]_tests.cmake")
+else()
+  add_test(inode_manager_test_NOT_BUILT inode_manager_test_NOT_BUILT)
+endif()

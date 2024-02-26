@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/metadata_server_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/metadata_server_test[1]_tests.cmake")
+else()
+  add_test(metadata_server_test_NOT_BUILT metadata_server_test_NOT_BUILT)
+endif()

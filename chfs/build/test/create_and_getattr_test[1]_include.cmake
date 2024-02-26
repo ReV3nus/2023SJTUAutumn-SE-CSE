@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/create_and_getattr_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/create_and_getattr_test[1]_tests.cmake")
+else()
+  add_test(create_and_getattr_test_NOT_BUILT create_and_getattr_test_NOT_BUILT)
+endif()

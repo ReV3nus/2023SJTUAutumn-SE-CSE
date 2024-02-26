@@ -1,0 +1,2486 @@
+Start testing: Dec 06 12:13 UTC
+----------------------------------------------------------
+1/76 Testing: BasicTest.BitmapBasic
+1/76 Test: BasicTest.BitmapBasic
+Command: "/home/stu/chfs/build/test/bitmap_test" "--gtest_filter=BasicTest.BitmapBasic" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/bitmap_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BasicTest.BitmapBasic" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BasicTest.BitmapBasic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BasicTest
+[ RUN      ] BasicTest.BitmapBasic
+[       OK ] BasicTest.BitmapBasic (3 ms)
+[----------] 1 test from BasicTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BasicTest.BitmapBasic" end time: Dec 06 12:13 UTC
+"BasicTest.BitmapBasic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/76 Testing: BasicTest.BitmapFree
+2/76 Test: BasicTest.BitmapFree
+Command: "/home/stu/chfs/build/test/bitmap_test" "--gtest_filter=BasicTest.BitmapFree" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/bitmap_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BasicTest.BitmapFree" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BasicTest.BitmapFree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BasicTest
+[ RUN      ] BasicTest.BitmapFree
+[       OK ] BasicTest.BitmapFree (67 ms)
+[----------] 1 test from BasicTest (67 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (69 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"BasicTest.BitmapFree" end time: Dec 06 12:13 UTC
+"BasicTest.BitmapFree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/76 Testing: BasicTest.Hello
+3/76 Test: BasicTest.Hello
+Command: "/home/stu/chfs/build/test/hello_test" "--gtest_filter=BasicTest.Hello" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/hello_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BasicTest.Hello" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BasicTest.Hello
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BasicTest
+[ RUN      ] BasicTest.Hello
+[       OK ] BasicTest.Hello (0 ms)
+[----------] 1 test from BasicTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BasicTest.Hello" end time: Dec 06 12:13 UTC
+"BasicTest.Hello" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/76 Testing: BlockAllocatorTest.Init
+4/76 Test: BlockAllocatorTest.Init
+Command: "/home/stu/chfs/build/test/allocator_test" "--gtest_filter=BlockAllocatorTest.Init" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/allocator_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BlockAllocatorTest.Init" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BlockAllocatorTest.Init
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BlockAllocatorTest
+[ RUN      ] BlockAllocatorTest.Init
+[       OK ] BlockAllocatorTest.Init (1477 ms)
+[----------] 1 test from BlockAllocatorTest (1477 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1478 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.50 sec
+----------------------------------------------------------
+Test Passed.
+"BlockAllocatorTest.Init" end time: Dec 06 12:13 UTC
+"BlockAllocatorTest.Init" time elapsed: 00:00:01
+----------------------------------------------------------
+
+5/76 Testing: BlockAllocatorTest.Allocation
+5/76 Test: BlockAllocatorTest.Allocation
+Command: "/home/stu/chfs/build/test/allocator_test" "--gtest_filter=BlockAllocatorTest.Allocation" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/allocator_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BlockAllocatorTest.Allocation" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BlockAllocatorTest.Allocation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BlockAllocatorTest
+[ RUN      ] BlockAllocatorTest.Allocation
+[       OK ] BlockAllocatorTest.Allocation (13 ms)
+[----------] 1 test from BlockAllocatorTest (13 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (13 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"BlockAllocatorTest.Allocation" end time: Dec 06 12:13 UTC
+"BlockAllocatorTest.Allocation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/76 Testing: BlockManagerTest.ReadWritePageTest
+6/76 Test: BlockManagerTest.ReadWritePageTest
+Command: "/home/stu/chfs/build/test/manager_test" "--gtest_filter=BlockManagerTest.ReadWritePageTest" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/manager_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BlockManagerTest.ReadWritePageTest" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BlockManagerTest.ReadWritePageTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BlockManagerTest
+[ RUN      ] BlockManagerTest.ReadWritePageTest
+[       OK ] BlockManagerTest.ReadWritePageTest (1 ms)
+[----------] 1 test from BlockManagerTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BlockManagerTest.ReadWritePageTest" end time: Dec 06 12:13 UTC
+"BlockManagerTest.ReadWritePageTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/76 Testing: BlockManagerTest.ZeroTest
+7/76 Test: BlockManagerTest.ZeroTest
+Command: "/home/stu/chfs/build/test/manager_test" "--gtest_filter=BlockManagerTest.ZeroTest" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/manager_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BlockManagerTest.ZeroTest" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BlockManagerTest.ZeroTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BlockManagerTest
+[ RUN      ] BlockManagerTest.ZeroTest
+[       OK ] BlockManagerTest.ZeroTest (0 ms)
+[----------] 1 test from BlockManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BlockManagerTest.ZeroTest" end time: Dec 06 12:13 UTC
+"BlockManagerTest.ZeroTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/76 Testing: BlockManagerTest.InMemoryTest
+8/76 Test: BlockManagerTest.InMemoryTest
+Command: "/home/stu/chfs/build/test/manager_test" "--gtest_filter=BlockManagerTest.InMemoryTest" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/manager_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BlockManagerTest.InMemoryTest" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BlockManagerTest.InMemoryTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BlockManagerTest
+[ RUN      ] BlockManagerTest.InMemoryTest
+[       OK ] BlockManagerTest.InMemoryTest (2 ms)
+[----------] 1 test from BlockManagerTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BlockManagerTest.InMemoryTest" end time: Dec 06 12:13 UTC
+"BlockManagerTest.InMemoryTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/76 Testing: BlockManagerTest.Iterator
+9/76 Test: BlockManagerTest.Iterator
+Command: "/home/stu/chfs/build/test/manager_test" "--gtest_filter=BlockManagerTest.Iterator" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/manager_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BlockManagerTest.Iterator" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BlockManagerTest.Iterator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BlockManagerTest
+[ RUN      ] BlockManagerTest.Iterator
+[       OK ] BlockManagerTest.Iterator (6 ms)
+[----------] 1 test from BlockManagerTest (6 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (7 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BlockManagerTest.Iterator" end time: Dec 06 12:13 UTC
+"BlockManagerTest.Iterator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/76 Testing: CommitLogTest.CheckConcurrent
+10/76 Test: CommitLogTest.CheckConcurrent
+Command: "/home/stu/chfs/build/test/commit_log_test" "--gtest_filter=CommitLogTest.CheckConcurrent" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/commit_log_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"CommitLogTest.CheckConcurrent" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = CommitLogTest.CheckConcurrent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommitLogTest
+[ RUN      ] CommitLogTest.CheckConcurrent
+We should init one new FS...
+Start to test
+
+
+[       OK ] CommitLogTest.CheckConcurrent (17 ms)
+[----------] 1 test from CommitLogTest (17 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (18 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"CommitLogTest.CheckConcurrent" end time: Dec 06 12:13 UTC
+"CommitLogTest.CheckConcurrent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/76 Testing: CommitLogTest.CheckConcurrentUnlink
+11/76 Test: CommitLogTest.CheckConcurrentUnlink
+Command: "/home/stu/chfs/build/test/commit_log_test" "--gtest_filter=CommitLogTest.CheckConcurrentUnlink" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/commit_log_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"CommitLogTest.CheckConcurrentUnlink" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = CommitLogTest.CheckConcurrentUnlink
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommitLogTest
+[ RUN      ] CommitLogTest.CheckConcurrentUnlink
+We should init one new FS...
+[       OK ] CommitLogTest.CheckConcurrentUnlink (30 ms)
+[----------] 1 test from CommitLogTest (30 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (30 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"CommitLogTest.CheckConcurrentUnlink" end time: Dec 06 12:13 UTC
+"CommitLogTest.CheckConcurrentUnlink" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/76 Testing: CommitLogTest.CheckRecoverFromFailure
+12/76 Test: CommitLogTest.CheckRecoverFromFailure
+Command: "/home/stu/chfs/build/test/commit_log_test" "--gtest_filter=CommitLogTest.CheckRecoverFromFailure" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/commit_log_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"CommitLogTest.CheckRecoverFromFailure" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = CommitLogTest.CheckRecoverFromFailure
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommitLogTest
+[ RUN      ] CommitLogTest.CheckRecoverFromFailure
+We should init one new FS...
+error when allocate inode!
+####cannot alloc inode! 2
+trying mknode 1-->(*new) name:dir
+[       OK ] CommitLogTest.CheckRecoverFromFailure (10 ms)
+[----------] 1 test from CommitLogTest (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CommitLogTest.CheckRecoverFromFailure" end time: Dec 06 12:13 UTC
+"CommitLogTest.CheckRecoverFromFailure" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/76 Testing: CommitLogTest.CheckCheckpointFunctional
+13/76 Test: CommitLogTest.CheckCheckpointFunctional
+Command: "/home/stu/chfs/build/test/commit_log_test" "--gtest_filter=CommitLogTest.CheckCheckpointFunctional" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/commit_log_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"CommitLogTest.CheckCheckpointFunctional" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = CommitLogTest.CheckCheckpointFunctional
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommitLogTest
+[ RUN      ] CommitLogTest.CheckCheckpointFunctional
+We should init one new FS...
+mknode done
+unlink done
+check root dir
+[       OK ] CommitLogTest.CheckCheckpointFunctional (2387 ms)
+[----------] 1 test from CommitLogTest (2387 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2387 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.43 sec
+----------------------------------------------------------
+Test Passed.
+"CommitLogTest.CheckCheckpointFunctional" end time: Dec 06 12:13 UTC
+"CommitLogTest.CheckCheckpointFunctional" time elapsed: 00:00:02
+----------------------------------------------------------
+
+14/76 Testing: DataServerTest.CreateAndInit
+14/76 Test: DataServerTest.CreateAndInit
+Command: "/home/stu/chfs/build/test/dataserver_test" "--gtest_filter=DataServerTest.CreateAndInit" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/dataserver_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"DataServerTest.CreateAndInit" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DataServerTest.CreateAndInit
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DataServerTest
+[ RUN      ] DataServerTest.CreateAndInit
+[       OK ] DataServerTest.CreateAndInit (3 ms)
+[----------] 1 test from DataServerTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"DataServerTest.CreateAndInit" end time: Dec 06 12:13 UTC
+"DataServerTest.CreateAndInit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/76 Testing: DataServerTest.AllocateAndDelete
+15/76 Test: DataServerTest.AllocateAndDelete
+Command: "/home/stu/chfs/build/test/dataserver_test" "--gtest_filter=DataServerTest.AllocateAndDelete" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/dataserver_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"DataServerTest.AllocateAndDelete" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DataServerTest.AllocateAndDelete
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DataServerTest
+[ RUN      ] DataServerTest.AllocateAndDelete
+[       OK ] DataServerTest.AllocateAndDelete (19 ms)
+[----------] 1 test from DataServerTest (19 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (19 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"DataServerTest.AllocateAndDelete" end time: Dec 06 12:13 UTC
+"DataServerTest.AllocateAndDelete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/76 Testing: DataServerTest.ReadAndWrite
+16/76 Test: DataServerTest.ReadAndWrite
+Command: "/home/stu/chfs/build/test/dataserver_test" "--gtest_filter=DataServerTest.ReadAndWrite" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/dataserver_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"DataServerTest.ReadAndWrite" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DataServerTest.ReadAndWrite
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DataServerTest
+[ RUN      ] DataServerTest.ReadAndWrite
+[       OK ] DataServerTest.ReadAndWrite (25 ms)
+[----------] 1 test from DataServerTest (25 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (26 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"DataServerTest.ReadAndWrite" end time: Dec 06 12:13 UTC
+"DataServerTest.ReadAndWrite" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/76 Testing: DistributedClientTest.WriteAndThenRead
+17/76 Test: DistributedClientTest.WriteAndThenRead
+Command: "/home/stu/chfs/build/test/distributed_client_test" "--gtest_filter=DistributedClientTest.WriteAndThenRead" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/distributed_client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"DistributedClientTest.WriteAndThenRead" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DistributedClientTest.WriteAndThenRead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DistributedClientTest
+[ RUN      ] DistributedClientTest.WriteAndThenRead
+We should init one new FS...
+[       OK ] DistributedClientTest.WriteAndThenRead (121 ms)
+[----------] 1 test from DistributedClientTest (121 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (126 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"DistributedClientTest.WriteAndThenRead" end time: Dec 06 12:13 UTC
+"DistributedClientTest.WriteAndThenRead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/76 Testing: DistributedClientTest.CreateConcurrent
+18/76 Test: DistributedClientTest.CreateConcurrent
+Command: "/home/stu/chfs/build/test/distributed_client_test" "--gtest_filter=DistributedClientTest.CreateConcurrent" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/distributed_client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"DistributedClientTest.CreateConcurrent" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DistributedClientTest.CreateConcurrent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DistributedClientTest
+[ RUN      ] DistributedClientTest.CreateConcurrent
+We should init one new FS...
+replicated name! 
+[       OK ] DistributedClientTest.CreateConcurrent (185 ms)
+[----------] 1 test from DistributedClientTest (186 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (188 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"DistributedClientTest.CreateConcurrent" end time: Dec 06 12:13 UTC
+"DistributedClientTest.CreateConcurrent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/76 Testing: DistributedClientTest.ReCreateWhenDelete
+19/76 Test: DistributedClientTest.ReCreateWhenDelete
+Command: "/home/stu/chfs/build/test/distributed_client_test" "--gtest_filter=DistributedClientTest.ReCreateWhenDelete" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/distributed_client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"DistributedClientTest.ReCreateWhenDelete" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = DistributedClientTest.ReCreateWhenDelete
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DistributedClientTest
+[ RUN      ] DistributedClientTest.ReCreateWhenDelete
+We should init one new FS...
+replicated name! 
+[       OK ] DistributedClientTest.ReCreateWhenDelete (270 ms)
+[----------] 1 test from DistributedClientTest (270 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (273 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"DistributedClientTest.ReCreateWhenDelete" end time: Dec 06 12:13 UTC
+"DistributedClientTest.ReCreateWhenDelete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/76 Testing: MetadataServerTest.CreateDirThenLookup
+20/76 Test: MetadataServerTest.CreateDirThenLookup
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.CreateDirThenLookup" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.CreateDirThenLookup" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.CreateDirThenLookup
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.CreateDirThenLookup
+We should init one new FS...
+[       OK ] MetadataServerTest.CreateDirThenLookup (55 ms)
+[----------] 1 test from MetadataServerTest (55 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (55 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.CreateDirThenLookup" end time: Dec 06 12:13 UTC
+"MetadataServerTest.CreateDirThenLookup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/76 Testing: MetadataServerTest.WriteAnEmptyFile
+21/76 Test: MetadataServerTest.WriteAnEmptyFile
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.WriteAnEmptyFile" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.WriteAnEmptyFile" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.WriteAnEmptyFile
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.WriteAnEmptyFile
+We should init one new FS...
+[       OK ] MetadataServerTest.WriteAnEmptyFile (79 ms)
+[----------] 1 test from MetadataServerTest (80 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (81 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.WriteAnEmptyFile" end time: Dec 06 12:13 UTC
+"MetadataServerTest.WriteAnEmptyFile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/76 Testing: MetadataServerTest.CheckPersist
+22/76 Test: MetadataServerTest.CheckPersist
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.CheckPersist" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.CheckPersist" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.CheckPersist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.CheckPersist
+We should init one new FS...
+Restarting...
+[       OK ] MetadataServerTest.CheckPersist (136 ms)
+[----------] 1 test from MetadataServerTest (136 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (140 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.CheckPersist" end time: Dec 06 12:13 UTC
+"MetadataServerTest.CheckPersist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/76 Testing: MetadataServerTest.ReadWhenBlockIsInvalid
+23/76 Test: MetadataServerTest.ReadWhenBlockIsInvalid
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.ReadWhenBlockIsInvalid" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.ReadWhenBlockIsInvalid" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.ReadWhenBlockIsInvalid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.ReadWhenBlockIsInvalid
+We should init one new FS...
+[       OK ] MetadataServerTest.ReadWhenBlockIsInvalid (75 ms)
+[----------] 1 test from MetadataServerTest (75 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (75 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.ReadWhenBlockIsInvalid" end time: Dec 06 12:13 UTC
+"MetadataServerTest.ReadWhenBlockIsInvalid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/76 Testing: MetadataServerTest.CheckReadDir
+24/76 Test: MetadataServerTest.CheckReadDir
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.CheckReadDir" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.CheckReadDir" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.CheckReadDir
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.CheckReadDir
+We should init one new FS...
+[       OK ] MetadataServerTest.CheckReadDir (51 ms)
+[----------] 1 test from MetadataServerTest (51 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (52 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.CheckReadDir" end time: Dec 06 12:13 UTC
+"MetadataServerTest.CheckReadDir" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/76 Testing: MetadataServerTest.CheckUnlink
+25/76 Test: MetadataServerTest.CheckUnlink
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.CheckUnlink" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.CheckUnlink" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.CheckUnlink
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.CheckUnlink
+We should init one new FS...
+[       OK ] MetadataServerTest.CheckUnlink (54 ms)
+[----------] 1 test from MetadataServerTest (55 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (55 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.CheckUnlink" end time: Dec 06 12:13 UTC
+"MetadataServerTest.CheckUnlink" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/76 Testing: MetadataServerTest.CheckInvariant1
+26/76 Test: MetadataServerTest.CheckInvariant1
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.CheckInvariant1" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.CheckInvariant1" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.CheckInvariant1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.CheckInvariant1
+We should init one new FS...
+[       OK ] MetadataServerTest.CheckInvariant1 (292 ms)
+[----------] 1 test from MetadataServerTest (293 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (293 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.CheckInvariant1" end time: Dec 06 12:13 UTC
+"MetadataServerTest.CheckInvariant1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/76 Testing: MetadataServerTest.CheckInvariant2
+27/76 Test: MetadataServerTest.CheckInvariant2
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.CheckInvariant2" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.CheckInvariant2" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.CheckInvariant2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.CheckInvariant2
+We should init one new FS...
+[       OK ] MetadataServerTest.CheckInvariant2 (240 ms)
+[----------] 1 test from MetadataServerTest (240 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (240 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.CheckInvariant2" end time: Dec 06 12:13 UTC
+"MetadataServerTest.CheckInvariant2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/76 Testing: MetadataServerTest.CheckInvariant3
+28/76 Test: MetadataServerTest.CheckInvariant3
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.CheckInvariant3" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.CheckInvariant3" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.CheckInvariant3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.CheckInvariant3
+We should init one new FS...
+[       OK ] MetadataServerTest.CheckInvariant3 (426 ms)
+[----------] 1 test from MetadataServerTest (426 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (427 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.CheckInvariant3" end time: Dec 06 12:13 UTC
+"MetadataServerTest.CheckInvariant3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/76 Testing: MetadataServerTest.CheckInvariant4
+29/76 Test: MetadataServerTest.CheckInvariant4
+Command: "/home/stu/chfs/build/test/metadata_server_test" "--gtest_filter=MetadataServerTest.CheckInvariant4" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/metadata_server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"MetadataServerTest.CheckInvariant4" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = MetadataServerTest.CheckInvariant4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MetadataServerTest
+[ RUN      ] MetadataServerTest.CheckInvariant4
+We should init one new FS...
+[       OK ] MetadataServerTest.CheckInvariant4 (224 ms)
+[----------] 1 test from MetadataServerTest (225 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (225 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"MetadataServerTest.CheckInvariant4" end time: Dec 06 12:13 UTC
+"MetadataServerTest.CheckInvariant4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/76 Testing: UtilTest.SerializeAndDesrialize
+30/76 Test: UtilTest.SerializeAndDesrialize
+Command: "/home/stu/chfs/build/test/util_test" "--gtest_filter=UtilTest.SerializeAndDesrialize" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/util_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"UtilTest.SerializeAndDesrialize" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = UtilTest.SerializeAndDesrialize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UtilTest
+[ RUN      ] UtilTest.SerializeAndDesrialize
+[       OK ] UtilTest.SerializeAndDesrialize (0 ms)
+[----------] 1 test from UtilTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"UtilTest.SerializeAndDesrialize" end time: Dec 06 12:13 UTC
+"UtilTest.SerializeAndDesrialize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/76 Testing: UtilTest.WithEmptyMap
+31/76 Test: UtilTest.WithEmptyMap
+Command: "/home/stu/chfs/build/test/util_test" "--gtest_filter=UtilTest.WithEmptyMap" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/util_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"UtilTest.WithEmptyMap" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = UtilTest.WithEmptyMap
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UtilTest
+[ RUN      ] UtilTest.WithEmptyMap
+[       OK ] UtilTest.WithEmptyMap (0 ms)
+[----------] 1 test from UtilTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"UtilTest.WithEmptyMap" end time: Dec 06 12:13 UTC
+"UtilTest.WithEmptyMap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/76 Testing: BasicFileSystemTest.Init
+32/76 Test: BasicFileSystemTest.Init
+Command: "/home/stu/chfs/build/test/basic_fs_test" "--gtest_filter=BasicFileSystemTest.Init" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/basic_fs_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"BasicFileSystemTest.Init" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = BasicFileSystemTest.Init
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BasicFileSystemTest
+[ RUN      ] BasicFileSystemTest.Init
+Basic FS test done
+[       OK ] BasicFileSystemTest.Init (5 ms)
+[----------] 1 test from BasicFileSystemTest (6 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (6 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BasicFileSystemTest.Init" end time: Dec 06 12:13 UTC
+"BasicFileSystemTest.Init" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/76 Testing: FileSystemTest.CreateAndGetAttr
+33/76 Test: FileSystemTest.CreateAndGetAttr
+Command: "/home/stu/chfs/build/test/create_and_getattr_test" "--gtest_filter=FileSystemTest.CreateAndGetAttr" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/create_and_getattr_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"FileSystemTest.CreateAndGetAttr" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = FileSystemTest.CreateAndGetAttr
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileSystemTest
+[ RUN      ] FileSystemTest.CreateAndGetAttr
+[       OK ] FileSystemTest.CreateAndGetAttr (4 ms)
+[----------] 1 test from FileSystemTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"FileSystemTest.CreateAndGetAttr" end time: Dec 06 12:13 UTC
+"FileSystemTest.CreateAndGetAttr" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/76 Testing: FileSystemBase.Utilities
+34/76 Test: FileSystemBase.Utilities
+Command: "/home/stu/chfs/build/test/directory_op_test" "--gtest_filter=FileSystemBase.Utilities" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/directory_op_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"FileSystemBase.Utilities" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = FileSystemBase.Utilities
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileSystemBase
+[ RUN      ] FileSystemBase.Utilities
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+#trying to append test
+#success append
+[       OK ] FileSystemBase.Utilities (1 ms)
+[----------] 1 test from FileSystemBase (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FileSystemBase.Utilities" end time: Dec 06 12:13 UTC
+"FileSystemBase.Utilities" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/76 Testing: FileSystemBase.UtilitiesRemove
+35/76 Test: FileSystemBase.UtilitiesRemove
+Command: "/home/stu/chfs/build/test/directory_op_test" "--gtest_filter=FileSystemBase.UtilitiesRemove" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/directory_op_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"FileSystemBase.UtilitiesRemove" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = FileSystemBase.UtilitiesRemove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileSystemBase
+[ RUN      ] FileSystemBase.UtilitiesRemove
+#trying to append test0
+#success append
+#trying to append test1
+#success append
+#trying to append test2
+#success append
+#trying to append test3
+#success append
+#trying to append test4
+#success append
+#trying to append test5
+#success append
+#trying to append test6
+#success append
+#trying to append test7
+#success append
+#trying to append test8
+#success append
+#trying to append test9
+#success append
+#trying to append test10
+#success append
+#trying to append test11
+#success append
+#trying to append test12
+#success append
+#trying to append test13
+#success append
+#trying to append test14
+#success append
+#trying to append test15
+#success append
+#trying to append test16
+#success append
+#trying to append test17
+#success append
+#trying to append test18
+#success append
+#trying to append test19
+#success append
+#trying to append test20
+#success append
+#trying to append test21
+#success append
+#trying to append test22
+#success append
+#trying to append test23
+#success append
+#trying to append test24
+#success append
+#trying to append test25
+#success append
+#trying to append test26
+#success append
+#trying to append test27
+#success append
+#trying to append test28
+#success append
+#trying to append test29
+#success append
+#trying to append test30
+#success append
+#trying to append test31
+#success append
+#trying to append test32
+#success append
+#trying to append test33
+#success append
+#trying to append test34
+#success append
+#trying to append test35
+#success append
+#trying to append test36
+#success append
+#trying to append test37
+#success append
+#trying to append test38
+#success append
+#trying to append test39
+#success append
+#trying to append test40
+#success append
+#trying to append test41
+#success append
+#trying to append test42
+#success append
+#trying to append test43
+#success append
+#trying to append test44
+#success append
+#trying to append test45
+#success append
+#trying to append test46
+#success append
+#trying to append test47
+#success append
+#trying to append test48
+#success append
+#trying to append test49
+#success append
+#trying to append test50
+#success append
+#trying to append test51
+#success append
+#trying to append test52
+#success append
+#trying to append test53
+#success append
+#trying to append test54
+#success append
+#trying to append test55
+#success append
+#trying to append test56
+#success append
+#trying to append test57
+#success append
+#trying to append test58
+#success append
+#trying to append test59
+#success append
+#trying to append test60
+#success append
+#trying to append test61
+#success append
+#trying to append test62
+#success append
+#trying to append test63
+#success append
+#trying to append test64
+#success append
+#trying to append test65
+#success append
+#trying to append test66
+#success append
+#trying to append test67
+#success append
+#trying to append test68
+#success append
+#trying to append test69
+#success append
+#trying to append test70
+#success append
+#trying to append test71
+#success append
+#trying to append test72
+#success append
+#trying to append test73
+#success append
+#trying to append test74
+#success append
+#trying to append test75
+#success append
+#trying to append test76
+#success append
+#trying to append test77
+#success append
+#trying to append test78
+#success append
+#trying to append test79
+#success append
+#trying to append test80
+#success append
+#trying to append test81
+#success append
+#trying to append test82
+#success append
+#trying to append test83
+#success append
+#trying to append test84
+#success append
+#trying to append test85
+#success append
+#trying to append test86
+#success append
+#trying to append test87
+#success append
+#trying to append test88
+#success append
+#trying to append test89
+#success append
+#trying to append test90
+#success append
+#trying to append test91
+#success append
+#trying to append test92
+#success append
+#trying to append test93
+#success append
+#trying to append test94
+#success append
+#trying to append test95
+#success append
+#trying to append test96
+#success append
+#trying to append test97
+#success append
+#trying to append test98
+#success append
+#trying to append test99
+#success append
+[       OK ] FileSystemBase.UtilitiesRemove (4 ms)
+[----------] 1 test from FileSystemBase (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"FileSystemBase.UtilitiesRemove" end time: Dec 06 12:13 UTC
+"FileSystemBase.UtilitiesRemove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/76 Testing: FileSystemTest.DirectOperationAdd
+36/76 Test: FileSystemTest.DirectOperationAdd
+Command: "/home/stu/chfs/build/test/directory_op_test" "--gtest_filter=FileSystemTest.DirectOperationAdd" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/directory_op_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"FileSystemTest.DirectOperationAdd" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = FileSystemTest.DirectOperationAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileSystemTest
+[ RUN      ] FileSystemTest.DirectOperationAdd
+[       OK ] FileSystemTest.DirectOperationAdd (3 ms)
+[----------] 1 test from FileSystemTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"FileSystemTest.DirectOperationAdd" end time: Dec 06 12:13 UTC
+"FileSystemTest.DirectOperationAdd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/76 Testing: FileSystemTest.mkdir
+37/76 Test: FileSystemTest.mkdir
+Command: "/home/stu/chfs/build/test/directory_op_test" "--gtest_filter=FileSystemTest.mkdir" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/directory_op_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"FileSystemTest.mkdir" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = FileSystemTest.mkdir
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileSystemTest
+[ RUN      ] FileSystemTest.mkdir
+[       OK ] FileSystemTest.mkdir (22 ms)
+[----------] 1 test from FileSystemTest (23 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (23 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"FileSystemTest.mkdir" end time: Dec 06 12:13 UTC
+"FileSystemTest.mkdir" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/76 Testing: FileSystemTest.WriteLargeFile
+38/76 Test: FileSystemTest.WriteLargeFile
+Command: "/home/stu/chfs/build/test/indirect_file_write_test" "--gtest_filter=FileSystemTest.WriteLargeFile" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/indirect_file_write_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"FileSystemTest.WriteLargeFile" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = FileSystemTest.WriteLargeFile
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileSystemTest
+[ RUN      ] FileSystemTest.WriteLargeFile
+[       OK ] FileSystemTest.WriteLargeFile (1960 ms)
+[----------] 1 test from FileSystemTest (1960 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1961 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.00 sec
+----------------------------------------------------------
+Test Passed.
+"FileSystemTest.WriteLargeFile" end time: Dec 06 12:13 UTC
+"FileSystemTest.WriteLargeFile" time elapsed: 00:00:02
+----------------------------------------------------------
+
+39/76 Testing: FileSystemTest.SetAttr
+39/76 Test: FileSystemTest.SetAttr
+Command: "/home/stu/chfs/build/test/indirect_file_write_test" "--gtest_filter=FileSystemTest.SetAttr" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/indirect_file_write_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"FileSystemTest.SetAttr" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = FileSystemTest.SetAttr
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileSystemTest
+[ RUN      ] FileSystemTest.SetAttr
+first_free_block_num: 32628
+second_free_block_num: 32618
+third_free_block_num: 32527
+[       OK ] FileSystemTest.SetAttr (7 ms)
+[----------] 1 test from FileSystemTest (7 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (7 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FileSystemTest.SetAttr" end time: Dec 06 12:13 UTC
+"FileSystemTest.SetAttr" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/76 Testing: FileSystemTest.Remove
+40/76 Test: FileSystemTest.Remove
+Command: "/home/stu/chfs/build/test/remove_test" "--gtest_filter=FileSystemTest.Remove" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/remove_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"FileSystemTest.Remove" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = FileSystemTest.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileSystemTest
+[ RUN      ] FileSystemTest.Remove
+[       OK ] FileSystemTest.Remove (6 ms)
+[----------] 1 test from FileSystemTest (6 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (7 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"FileSystemTest.Remove" end time: Dec 06 12:13 UTC
+"FileSystemTest.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/76 Testing: LibRpcClientTest.CreateAndConnect
+41/76 Test: LibRpcClientTest.CreateAndConnect
+Command: "/home/stu/chfs/build/test/client_test" "--gtest_filter=LibRpcClientTest.CreateAndConnect" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcClientTest.CreateAndConnect" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcClientTest.CreateAndConnect
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcClientTest
+[ RUN      ] LibRpcClientTest.CreateAndConnect
+[       OK ] LibRpcClientTest.CreateAndConnect (508 ms)
+[----------] 1 test from LibRpcClientTest (508 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (512 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcClientTest.CreateAndConnect" end time: Dec 06 12:13 UTC
+"LibRpcClientTest.CreateAndConnect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/76 Testing: LibRpcClientTest.BindAndCallSimple
+42/76 Test: LibRpcClientTest.BindAndCallSimple
+Command: "/home/stu/chfs/build/test/client_test" "--gtest_filter=LibRpcClientTest.BindAndCallSimple" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcClientTest.BindAndCallSimple" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcClientTest.BindAndCallSimple
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcClientTest
+[ RUN      ] LibRpcClientTest.BindAndCallSimple
+[       OK ] LibRpcClientTest.BindAndCallSimple (18 ms)
+[----------] 1 test from LibRpcClientTest (18 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (19 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcClientTest.BindAndCallSimple" end time: Dec 06 12:13 UTC
+"LibRpcClientTest.BindAndCallSimple" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/76 Testing: LibRpcClientTest.BindAndCallAsync
+43/76 Test: LibRpcClientTest.BindAndCallAsync
+Command: "/home/stu/chfs/build/test/client_test" "--gtest_filter=LibRpcClientTest.BindAndCallAsync" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcClientTest.BindAndCallAsync" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcClientTest.BindAndCallAsync
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcClientTest
+[ RUN      ] LibRpcClientTest.BindAndCallAsync
+[       OK ] LibRpcClientTest.BindAndCallAsync (2011 ms)
+[----------] 1 test from LibRpcClientTest (2011 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2012 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.03 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcClientTest.BindAndCallAsync" end time: Dec 06 12:13 UTC
+"LibRpcClientTest.BindAndCallAsync" time elapsed: 00:00:02
+----------------------------------------------------------
+
+44/76 Testing: LibRpcClientTest.CallGlobalVariable
+44/76 Test: LibRpcClientTest.CallGlobalVariable
+Command: "/home/stu/chfs/build/test/client_test" "--gtest_filter=LibRpcClientTest.CallGlobalVariable" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcClientTest.CallGlobalVariable" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcClientTest.CallGlobalVariable
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcClientTest
+[ RUN      ] LibRpcClientTest.CallGlobalVariable
+[       OK ] LibRpcClientTest.CallGlobalVariable (31 ms)
+[----------] 1 test from LibRpcClientTest (31 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (32 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcClientTest.CallGlobalVariable" end time: Dec 06 12:13 UTC
+"LibRpcClientTest.CallGlobalVariable" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/76 Testing: LibRpcClientTest.WithNetworkFailure
+45/76 Test: LibRpcClientTest.WithNetworkFailure
+Command: "/home/stu/chfs/build/test/client_test" "--gtest_filter=LibRpcClientTest.WithNetworkFailure" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcClientTest.WithNetworkFailure" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcClientTest.WithNetworkFailure
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcClientTest
+[ RUN      ] LibRpcClientTest.WithNetworkFailure
+[       OK ] LibRpcClientTest.WithNetworkFailure (10365 ms)
+[----------] 1 test from LibRpcClientTest (10365 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10365 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  10.38 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcClientTest.WithNetworkFailure" end time: Dec 06 12:13 UTC
+"LibRpcClientTest.WithNetworkFailure" time elapsed: 00:00:10
+----------------------------------------------------------
+
+46/76 Testing: LibRpcClientTest.RpcSemantic
+46/76 Test: LibRpcClientTest.RpcSemantic
+Command: "/home/stu/chfs/build/test/client_test" "--gtest_filter=LibRpcClientTest.RpcSemantic" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcClientTest.RpcSemantic" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcClientTest.RpcSemantic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcClientTest
+[ RUN      ] LibRpcClientTest.RpcSemantic
+[       OK ] LibRpcClientTest.RpcSemantic (10271 ms)
+[----------] 1 test from LibRpcClientTest (10271 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10272 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  10.29 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcClientTest.RpcSemantic" end time: Dec 06 12:13 UTC
+"LibRpcClientTest.RpcSemantic" time elapsed: 00:00:10
+----------------------------------------------------------
+
+47/76 Testing: LibRpcClientTest.DeliverBytes
+47/76 Test: LibRpcClientTest.DeliverBytes
+Command: "/home/stu/chfs/build/test/client_test" "--gtest_filter=LibRpcClientTest.DeliverBytes" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcClientTest.DeliverBytes" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcClientTest.DeliverBytes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcClientTest
+[ RUN      ] LibRpcClientTest.DeliverBytes
+[       OK ] LibRpcClientTest.DeliverBytes (13 ms)
+[----------] 1 test from LibRpcClientTest (13 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (14 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcClientTest.DeliverBytes" end time: Dec 06 12:13 UTC
+"LibRpcClientTest.DeliverBytes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/76 Testing: LibRpcClientTest.DeliverMap
+48/76 Test: LibRpcClientTest.DeliverMap
+Command: "/home/stu/chfs/build/test/client_test" "--gtest_filter=LibRpcClientTest.DeliverMap" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/client_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcClientTest.DeliverMap" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcClientTest.DeliverMap
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcClientTest
+[ RUN      ] LibRpcClientTest.DeliverMap
+[       OK ] LibRpcClientTest.DeliverMap (14 ms)
+[----------] 1 test from LibRpcClientTest (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcClientTest.DeliverMap" end time: Dec 06 12:13 UTC
+"LibRpcClientTest.DeliverMap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/76 Testing: LibRpcServerTest.Create
+49/76 Test: LibRpcServerTest.Create
+Command: "/home/stu/chfs/build/test/server_test" "--gtest_filter=LibRpcServerTest.Create" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcServerTest.Create" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcServerTest.Create
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcServerTest
+[ RUN      ] LibRpcServerTest.Create
+[       OK ] LibRpcServerTest.Create (0 ms)
+[----------] 1 test from LibRpcServerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcServerTest.Create" end time: Dec 06 12:13 UTC
+"LibRpcServerTest.Create" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/76 Testing: LibRpcServerTest.Bind
+50/76 Test: LibRpcServerTest.Bind
+Command: "/home/stu/chfs/build/test/server_test" "--gtest_filter=LibRpcServerTest.Bind" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/server_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"LibRpcServerTest.Bind" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = LibRpcServerTest.Bind
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LibRpcServerTest
+[ RUN      ] LibRpcServerTest.Bind
+[       OK ] LibRpcServerTest.Bind (0 ms)
+[----------] 1 test from LibRpcServerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"LibRpcServerTest.Bind" end time: Dec 06 12:13 UTC
+"LibRpcServerTest.Bind" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/76 Testing: InodeManagerTest.InitAndTable
+51/76 Test: InodeManagerTest.InitAndTable
+Command: "/home/stu/chfs/build/test/inode_manager_test" "--gtest_filter=InodeManagerTest.InitAndTable" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/inode_manager_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"InodeManagerTest.InitAndTable" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = InodeManagerTest.InitAndTable
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InodeManagerTest
+[ RUN      ] InodeManagerTest.InitAndTable
+[       OK ] InodeManagerTest.InitAndTable (3 ms)
+[----------] 1 test from InodeManagerTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"InodeManagerTest.InitAndTable" end time: Dec 06 12:13 UTC
+"InodeManagerTest.InitAndTable" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/76 Testing: InodeManagerTest.Allocation
+52/76 Test: InodeManagerTest.Allocation
+Command: "/home/stu/chfs/build/test/inode_manager_test" "--gtest_filter=InodeManagerTest.Allocation" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/inode_manager_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"InodeManagerTest.Allocation" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = InodeManagerTest.Allocation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InodeManagerTest
+[ RUN      ] InodeManagerTest.Allocation
+[       OK ] InodeManagerTest.Allocation (146 ms)
+[----------] 1 test from InodeManagerTest (146 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (146 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"InodeManagerTest.Allocation" end time: Dec 06 12:13 UTC
+"InodeManagerTest.Allocation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/76 Testing: InodeTest.Init
+53/76 Test: InodeTest.Init
+Command: "/home/stu/chfs/build/test/inode_test" "--gtest_filter=InodeTest.Init" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/inode_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"InodeTest.Init" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = InodeTest.Init
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InodeTest
+[ RUN      ] InodeTest.Init
+[       OK ] InodeTest.Init (0 ms)
+[----------] 1 test from InodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"InodeTest.Init" end time: Dec 06 12:13 UTC
+"InodeTest.Init" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/76 Testing: InodeTest.Iteration
+54/76 Test: InodeTest.Iteration
+Command: "/home/stu/chfs/build/test/inode_test" "--gtest_filter=InodeTest.Iteration" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/inode_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"InodeTest.Iteration" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = InodeTest.Iteration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InodeTest
+[ RUN      ] InodeTest.Iteration
+[       OK ] InodeTest.Iteration (0 ms)
+[----------] 1 test from InodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"InodeTest.Iteration" end time: Dec 06 12:13 UTC
+"InodeTest.Iteration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/76 Testing: InodeTest.IterationWrite
+55/76 Test: InodeTest.IterationWrite
+Command: "/home/stu/chfs/build/test/inode_test" "--gtest_filter=InodeTest.IterationWrite" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/inode_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"InodeTest.IterationWrite" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = InodeTest.IterationWrite
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InodeTest
+[ RUN      ] InodeTest.IterationWrite
+[       OK ] InodeTest.IterationWrite (0 ms)
+[----------] 1 test from InodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"InodeTest.IterationWrite" end time: Dec 06 12:13 UTC
+"InodeTest.IterationWrite" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/76 Testing: SuperblockTest.CreateFromZero
+56/76 Test: SuperblockTest.CreateFromZero
+Command: "/home/stu/chfs/build/test/superblock_test" "--gtest_filter=SuperblockTest.CreateFromZero" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/superblock_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"SuperblockTest.CreateFromZero" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = SuperblockTest.CreateFromZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SuperblockTest
+[ RUN      ] SuperblockTest.CreateFromZero
+[       OK ] SuperblockTest.CreateFromZero (0 ms)
+[----------] 1 test from SuperblockTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"SuperblockTest.CreateFromZero" end time: Dec 06 12:13 UTC
+"SuperblockTest.CreateFromZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/76 Testing: RaftTestPart1.LeaderElection
+57/76 Test: RaftTestPart1.LeaderElection
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart1.LeaderElection" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart1.LeaderElection" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart1.LeaderElection
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart1
+[ RUN      ] RaftTestPart1.LeaderElection
+ALLFINISH
+[       OK ] RaftTestPart1.LeaderElection (2295 ms)
+[----------] 1 test from RaftTestPart1 (2295 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2295 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.32 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart1.LeaderElection" end time: Dec 06 12:13 UTC
+"RaftTestPart1.LeaderElection" time elapsed: 00:00:02
+----------------------------------------------------------
+
+58/76 Testing: RaftTestPart1.ReElection
+58/76 Test: RaftTestPart1.ReElection
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart1.ReElection" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart1.ReElection" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart1.ReElection
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart1
+[ RUN      ] RaftTestPart1.ReElection
+SECONDSTARTING
+[       OK ] RaftTestPart1.ReElection (5135 ms)
+[----------] 1 test from RaftTestPart1 (5135 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5136 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   5.17 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart1.ReElection" end time: Dec 06 12:13 UTC
+"RaftTestPart1.ReElection" time elapsed: 00:00:05
+----------------------------------------------------------
+
+59/76 Testing: RaftTestPart2.BasicAgree
+59/76 Test: RaftTestPart2.BasicAgree
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart2.BasicAgree" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart2.BasicAgree" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart2.BasicAgree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart2
+[ RUN      ] RaftTestPart2.BasicAgree
+[       OK ] RaftTestPart2.BasicAgree (1042 ms)
+[----------] 1 test from RaftTestPart2 (1042 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1042 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.07 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart2.BasicAgree" end time: Dec 06 12:13 UTC
+"RaftTestPart2.BasicAgree" time elapsed: 00:00:01
+----------------------------------------------------------
+
+60/76 Testing: RaftTestPart2.FailAgreement
+60/76 Test: RaftTestPart2.FailAgreement
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart2.FailAgreement" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart2.FailAgreement" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart2.FailAgreement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart2
+[ RUN      ] RaftTestPart2.FailAgreement
+[       OK ] RaftTestPart2.FailAgreement (2081 ms)
+[----------] 1 test from RaftTestPart2 (2081 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2081 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.12 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart2.FailAgreement" end time: Dec 06 12:13 UTC
+"RaftTestPart2.FailAgreement" time elapsed: 00:00:02
+----------------------------------------------------------
+
+61/76 Testing: RaftTestPart2.FailNoAgreement
+61/76 Test: RaftTestPart2.FailNoAgreement
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart2.FailNoAgreement" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart2.FailNoAgreement" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart2.FailNoAgreement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart2
+[ RUN      ] RaftTestPart2.FailNoAgreement
+[       OK ] RaftTestPart2.FailNoAgreement (4556 ms)
+[----------] 1 test from RaftTestPart2 (4556 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4557 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.61 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart2.FailNoAgreement" end time: Dec 06 12:13 UTC
+"RaftTestPart2.FailNoAgreement" time elapsed: 00:00:04
+----------------------------------------------------------
+
+62/76 Testing: RaftTestPart2.ConcurrentStarts
+62/76 Test: RaftTestPart2.ConcurrentStarts
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart2.ConcurrentStarts" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart2.ConcurrentStarts" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart2.ConcurrentStarts
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart2
+[ RUN      ] RaftTestPart2.ConcurrentStarts
+[       OK ] RaftTestPart2.ConcurrentStarts (1575 ms)
+[----------] 1 test from RaftTestPart2 (1575 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1575 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.61 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart2.ConcurrentStarts" end time: Dec 06 12:13 UTC
+"RaftTestPart2.ConcurrentStarts" time elapsed: 00:00:01
+----------------------------------------------------------
+
+63/76 Testing: RaftTestPart2.Rejoin
+63/76 Test: RaftTestPart2.Rejoin
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart2.Rejoin" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart2.Rejoin" start time: Dec 06 12:13 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart2.Rejoin
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart2
+[ RUN      ] RaftTestPart2.Rejoin
+[       OK ] RaftTestPart2.Rejoin (4584 ms)
+[----------] 1 test from RaftTestPart2 (4584 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4584 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.61 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart2.Rejoin" end time: Dec 06 12:14 UTC
+"RaftTestPart2.Rejoin" time elapsed: 00:00:04
+----------------------------------------------------------
+
+64/76 Testing: RaftTestPart2.Backup
+64/76 Test: RaftTestPart2.Backup
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart2.Backup" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart2.Backup" start time: Dec 06 12:14 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart2.Backup
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart2
+[ RUN      ] RaftTestPart2.Backup
+[       OK ] RaftTestPart2.Backup (18586 ms)
+[----------] 1 test from RaftTestPart2 (18586 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (18586 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  18.68 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart2.Backup" end time: Dec 06 12:14 UTC
+"RaftTestPart2.Backup" time elapsed: 00:00:18
+----------------------------------------------------------
+
+65/76 Testing: RaftTestPart2.RpcCount
+65/76 Test: RaftTestPart2.RpcCount
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart2.RpcCount" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart2.RpcCount" start time: Dec 06 12:14 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart2.RpcCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart2
+[ RUN      ] RaftTestPart2.RpcCount
+[       OK ] RaftTestPart2.RpcCount (2792 ms)
+[----------] 1 test from RaftTestPart2 (2792 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2792 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.82 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart2.RpcCount" end time: Dec 06 12:14 UTC
+"RaftTestPart2.RpcCount" time elapsed: 00:00:02
+----------------------------------------------------------
+
+66/76 Testing: RaftTestPart3.BasicPersist
+66/76 Test: RaftTestPart3.BasicPersist
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart3.BasicPersist" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart3.BasicPersist" start time: Dec 06 12:14 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart3.BasicPersist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart3
+[ RUN      ] RaftTestPart3.BasicPersist
+[       OK ] RaftTestPart3.BasicPersist (9527 ms)
+[----------] 1 test from RaftTestPart3 (9527 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9527 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   9.56 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart3.BasicPersist" end time: Dec 06 12:14 UTC
+"RaftTestPart3.BasicPersist" time elapsed: 00:00:09
+----------------------------------------------------------
+
+67/76 Testing: RaftTestPart3.MorePersistence
+67/76 Test: RaftTestPart3.MorePersistence
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart3.MorePersistence" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart3.MorePersistence" start time: Dec 06 12:14 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart3.MorePersistence
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart3
+[ RUN      ] RaftTestPart3.MorePersistence
+------------ITER 0----------------
+------------ITER 1----------------
+------------ITER 2----------------
+------------ITER 3----------------
+------------ITER 4----------------
+[       OK ] RaftTestPart3.MorePersistence (35582 ms)
+[----------] 1 test from RaftTestPart3 (35582 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (35582 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  35.65 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart3.MorePersistence" end time: Dec 06 12:15 UTC
+"RaftTestPart3.MorePersistence" time elapsed: 00:00:35
+----------------------------------------------------------
+
+68/76 Testing: RaftTestPart3.Persist3
+68/76 Test: RaftTestPart3.Persist3
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart3.Persist3" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart3.Persist3" start time: Dec 06 12:15 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart3.Persist3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart3
+[ RUN      ] RaftTestPart3.Persist3
+[       OK ] RaftTestPart3.Persist3 (4725 ms)
+[----------] 1 test from RaftTestPart3 (4725 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4725 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   4.75 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart3.Persist3" end time: Dec 06 12:15 UTC
+"RaftTestPart3.Persist3" time elapsed: 00:00:04
+----------------------------------------------------------
+
+69/76 Testing: RaftTestPart3.UnreliableAgree
+69/76 Test: RaftTestPart3.UnreliableAgree
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart3.UnreliableAgree" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart3.UnreliableAgree" start time: Dec 06 12:15 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart3.UnreliableAgree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart3
+[ RUN      ] RaftTestPart3.UnreliableAgree
+[       OK ] RaftTestPart3.UnreliableAgree (6040 ms)
+[----------] 1 test from RaftTestPart3 (6040 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (6040 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   6.12 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart3.UnreliableAgree" end time: Dec 06 12:15 UTC
+"RaftTestPart3.UnreliableAgree" time elapsed: 00:00:06
+----------------------------------------------------------
+
+70/76 Testing: RaftTestPart3.Figure8
+70/76 Test: RaftTestPart3.Figure8
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart3.Figure8" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart3.Figure8" start time: Dec 06 12:15 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart3.Figure8
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart3
+[ RUN      ] RaftTestPart3.Figure8
+START FIGURE8
+?0?1?2?3?4?5?6?7?8?9?10?11?12?13?14?15?16?17?18?19?20?21?22?23?24?25?26?27?28?29?30?31?32?33?34?35?36?37?38?39?40?41?42?43?44?45?46?47?48?49?50?51?52?53?54?55?56?57?58?59?60?61?62?63?64?65?66?67?68?69?70?71?72?73?74?75?76?77?78?79?80?81?82?83?84?85?86?87?88?89?90?91?92?93?94?95?96?97?98?99?100?101?102?103?104?105?106?107?108?109?110?111?112?113?114?115?116?117?118?119?120?121?122?123?124?125?126?127?128?129?130?131?132?133?134?135?136?137?138?139?140?141?142?143?144?145?146?147?148?149?150?151?152?153?154?155?156?157?158?159?160?161?162?163?164?165?166?167?168?169?170?171?172?173?174?175?176?177?178?179?180?181?182?183?184?185?186?187?188?189?190?191?192?193?194?195?196?197?198?199?200?201?202?203?204?205?206?207?208?209?210?211?212?213?214?215?216?217?218?219?220?221?222?223?224?225?226?227?228?229?230?231?232?233?234?235?236?237?238?239?240?241?242?243?244?245?246?247?248?249?250?251?252?253?254?255?256?257?258?259?260?261?262?263?264?265?266?267?268?269?270?271?272?273?274?275?276?277?278?279?280?281?282?283?284?285?286?287?288?289?290?291?292?293?294?295?296?297?298?299?300?301?302?303?304?305?306?307?308?309?310?311?312?313?314?315?316?317?318?319?320?321?322?323?324?325?326?327?328?329?330?331?332?333?334?335?336?337?338?339?340?341?342?343?344?345?346?347?348?349?350?351?352?353?354?355?356?357?358?359?360?361?362?363?364?365?366?367?368?369?370?371?372?373?374?375?376?377?378?379?380?381?382?383?384?385?386?387?388?389?390?391?392?393?394?395?396?397?398?399?400?401?402?403?404?405?406?407?408?409?410?411?412?413?414?415?416?417?418?419?420?421?422?423?424?425?426?427?428?429?430?431?432?433?434?435?436?437?438?439?440?441?442?443?444?445?446?447?448?449?450?451?452?453?454?455?456?457?458?459?460?461?462?463?464?465?466?467?468?469?470?471?472?473?474?475?476?477?478?479?480?481?482?483?484?485?486?487?488?489?490?491?492?493?494?495?496?497?498?499?500?501?502?503?504?505?506?507?508?509?510?511?512?513?514?515?516?517?518?519?520?521?522?523?524?525?526?527?528?529?530?531?532?533?534?535?536?537?538?539?540?541?542?543?544?545?546?547?548?549?550?551?552?553?554?555?556?557?558?559?560?561?562?563?564?565?566?567?568?569?570?571?572?573?574?575?576?577?578?579?580?581?582?583?584?585?586?587?588?589?590?591?592?593?594?595?596?597?598?599?600?601?602?603?604?605?606?607?608?609?610?611?612?613?614?615?616?617?618?619?620?621?622?623?624?625?626?627?628?629?630?631?632?633?634?635?636?637?638?639?640?641?642?643?644?645?646?647?648?649?650?651?652?653?654?655?656?657?658?659?660?661?662?663?664?665?666?667?668?669?670?671?672?673?674?675?676?677?678?679?680?681?682?683?684?685?686?687?688?689?690?691?692?693?694?695?696?697?698?699?700?701?702?703?704?705?706?707?708?709?710?711?712?713?714?715?716?717?718?719?720?721?722?723?724?725?726?727?728?729?730?731?732?733?734?735?736?737?738?739?740?741?742?743?744?745?746?747?748?749?750?751?752?753?754?755?756?757?758?759?760?761?762?763?764?765?766?767?768?769?770?771?772?773?774?775?776?777?778?779?780?781?782?783?784?785?786?787?788?789?790?791?792?793?794?795?796?797?798?799?800?801?802?803?804?805?806?807?808?809?810?811?812?813?814?815?816?817?818?819?820?821?822?823?824?825?826?827?828?829?830?831?832?833?834?835?836?837?838?839?840?841?842?843?844?845?846?847?848?849?850?851?852?853?854?855?856?857?858?859?860?861?862?863?864?865?866?867?868?869?870?871?872?873?874?875?876?877?878?879?880?881?882?883?884?885?886?887?888?889?890?891?892?893?894?895?896?897?898?899?900?901?902?903?904?905?906?907?908?909?910?911?912?913?914?915?916?917?918?919?920?921?922?923?924?925?926?927?928?929?930?931?932?933?934?935?936?937?938?939?940?941?942?943?944?945?946?947?948?949?950?951?952?953?954?955?956?957?958?959?960?961?962?963?964?965?966?967?968?969?970?971?972?973?974?975?976?977?978?979?980?981?982?983?984?985?986?987?988?989?990?991?992?993?994?995?996?997?998?999
+[       OK ] RaftTestPart3.Figure8 (283967 ms)
+[----------] 1 test from RaftTestPart3 (283967 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (283967 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time = 284.03 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart3.Figure8" end time: Dec 06 12:20 UTC
+"RaftTestPart3.Figure8" time elapsed: 00:04:44
+----------------------------------------------------------
+
+71/76 Testing: RaftTestPart3.UnreliableFigure8
+71/76 Test: RaftTestPart3.UnreliableFigure8
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart3.UnreliableFigure8" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart3.UnreliableFigure8" start time: Dec 06 12:20 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart3.UnreliableFigure8
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart3
+[ RUN      ] RaftTestPart3.UnreliableFigure8
+START FIGURE8
+?0?1?2?3?4?5?6?7?8?9?10?11?12?13?14?15?16?17?18?19?20?21?22?23?24?25?26?27?28?29?30?31?32?33?34?35?36?37?38?39?40?41?42?43?44?45?46?47?48?49?50?51?52?53?54?55?56?57?58?59?60?61?62?63?64?65?66?67?68?69?70?71?72?73?74?75?76?77?78?79?80?81?82?83?84?85?86?87?88?89?90?91?92?93?94?95?96?97?98?99
+[       OK ] RaftTestPart3.UnreliableFigure8 (35336 ms)
+[----------] 1 test from RaftTestPart3 (35336 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (35337 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  35.39 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart3.UnreliableFigure8" end time: Dec 06 12:20 UTC
+"RaftTestPart3.UnreliableFigure8" time elapsed: 00:00:35
+----------------------------------------------------------
+
+72/76 Testing: RaftTestPart4.BasicSnapshot
+72/76 Test: RaftTestPart4.BasicSnapshot
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart4.BasicSnapshot" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart4.BasicSnapshot" start time: Dec 06 12:20 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart4.BasicSnapshot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart4
+[ RUN      ] RaftTestPart4.BasicSnapshot
+-------------STAGE 1-------------------
+-------------STAGE 2-------------------
+-------------STAGE 3-------------------
+-------------STAGE 4-------------------
+[       OK ] RaftTestPart4.BasicSnapshot (14281 ms)
+[----------] 1 test from RaftTestPart4 (14281 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (14281 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  14.33 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart4.BasicSnapshot" end time: Dec 06 12:20 UTC
+"RaftTestPart4.BasicSnapshot" time elapsed: 00:00:14
+----------------------------------------------------------
+
+73/76 Testing: RaftTestPart4.RestoreSnapshot
+73/76 Test: RaftTestPart4.RestoreSnapshot
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart4.RestoreSnapshot" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart4.RestoreSnapshot" start time: Dec 06 12:20 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart4.RestoreSnapshot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart4
+[ RUN      ] RaftTestPart4.RestoreSnapshot
+--------------STAGE0---------------
+--------------STAGE1---------------
+--------------STAGE2---------------
+[       OK ] RaftTestPart4.RestoreSnapshot (15027 ms)
+[----------] 1 test from RaftTestPart4 (15027 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15028 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  15.06 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart4.RestoreSnapshot" end time: Dec 06 12:21 UTC
+"RaftTestPart4.RestoreSnapshot" time elapsed: 00:00:15
+----------------------------------------------------------
+
+74/76 Testing: RaftTestPart4.OverrideSnapshot
+74/76 Test: RaftTestPart4.OverrideSnapshot
+Command: "/home/stu/chfs/build/test/raft_test" "--gtest_filter=RaftTestPart4.OverrideSnapshot" "--gtest_also_run_disabled_tests" "--gtest_color=auto" "--gtest_output=xml:/home/stu/chfs/build/test/raft_test.xml" "--gtest_catch_exceptions=0"
+Directory: /home/stu/chfs/build/test
+"RaftTestPart4.OverrideSnapshot" start time: Dec 06 12:21 UTC
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RaftTestPart4.OverrideSnapshot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaftTestPart4
+[ RUN      ] RaftTestPart4.OverrideSnapshot
+[       OK ] RaftTestPart4.OverrideSnapshot (10864 ms)
+[----------] 1 test from RaftTestPart4 (10865 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10865 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  10.90 sec
+----------------------------------------------------------
+Test Passed.
+"RaftTestPart4.OverrideSnapshot" end time: Dec 06 12:21 UTC
+"RaftTestPart4.OverrideSnapshot" time elapsed: 00:00:10
+----------------------------------------------------------
+
+Unable to find executable: allocator_stress_test_NOT_BUILT
+75/76 Testing: allocator_stress_test_NOT_BUILT
+75/76 Test: allocator_stress_test_NOT_BUILT
+Command: ""
+Directory: /home/stu/chfs/build/stress-test
+"allocator_stress_test_NOT_BUILT" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"allocator_stress_test_NOT_BUILT" end time: Dec 06 12:21 UTC
+"allocator_stress_test_NOT_BUILT" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: concurrent_stress_test_NOT_BUILT
+76/76 Testing: concurrent_stress_test_NOT_BUILT
+76/76 Test: concurrent_stress_test_NOT_BUILT
+Command: ""
+Directory: /home/stu/chfs/build/stress-test
+"concurrent_stress_test_NOT_BUILT" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"concurrent_stress_test_NOT_BUILT" end time: Dec 06 12:21 UTC
+"concurrent_stress_test_NOT_BUILT" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 06 12:21 UTC

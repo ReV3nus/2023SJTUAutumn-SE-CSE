@@ -1,0 +1,5 @@
+add_test( UtilTest.SerializeAndDesrialize /home/stu/chfs/build/test/util_test [==[--gtest_filter=UtilTest.SerializeAndDesrialize]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/util_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( UtilTest.SerializeAndDesrialize PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+add_test( UtilTest.WithEmptyMap /home/stu/chfs/build/test/util_test [==[--gtest_filter=UtilTest.WithEmptyMap]==] --gtest_also_run_disabled_tests [==[--gtest_color=auto]==] [==[--gtest_output=xml:/home/stu/chfs/build/test/util_test.xml]==] [==[--gtest_catch_exceptions=0]==])
+set_tests_properties( UtilTest.WithEmptyMap PROPERTIES WORKING_DIRECTORY /home/stu/chfs/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] TIMEOUT 1000)
+set( util_test_TESTS UtilTest.SerializeAndDesrialize UtilTest.WithEmptyMap)

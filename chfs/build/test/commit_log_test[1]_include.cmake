@@ -1,0 +1,5 @@
+if(EXISTS "/home/stu/chfs/build/test/commit_log_test[1]_tests.cmake")
+  include("/home/stu/chfs/build/test/commit_log_test[1]_tests.cmake")
+else()
+  add_test(commit_log_test_NOT_BUILT commit_log_test_NOT_BUILT)
+endif()
